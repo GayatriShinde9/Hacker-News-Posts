@@ -84,5 +84,3 @@
 ### •	Analyze points vs comments relationship
 ### •	Perform sentiment analysis on post titles
 ### •	Build a dashboard using Power BI or Streamlit
-Just tell me 👍
-

@@ -1,4 +1,4 @@
-Hacker News Posts – Data Analysis Project
+# Hacker News Posts – Data Analysis Project
 ## Project Overview
 ## This project analyzes posts from Hacker News to identify patterns and insights related to:
 ### •	Post types (Ask HN, Show HN, etc.)
